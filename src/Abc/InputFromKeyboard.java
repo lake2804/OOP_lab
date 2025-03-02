@@ -7,7 +7,7 @@ public class InputFromKeyboard {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhập tên của bạn: ");
         String name = scanner.nextLine();
-        System.out.println("Xin chào, " + name + "! Chúc bạn một ngày tốt lành");
+        System.out.println("Xin chào, " + name + "! Hiiiiiiiiii");
         scanner.close();
     }
 }
